@@ -14,7 +14,8 @@ Para MiddelWares en este caso Cors
 <h2>Estructura basica</h2>
 🗂Public
 🗂Routes
-* Controllers
-* Models
-        
+<ul>
+<li>Controllers </li>
+<li>Models</li>
+</ul>
 
