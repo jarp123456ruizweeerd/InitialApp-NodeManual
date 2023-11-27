@@ -12,11 +12,10 @@ Para MiddelWares en este caso Cors
 <br>
 
 <h2>Estructura basica</h2>
-🗂Public
-🗂Routes
 <ul>
+<li>Public </li>
 <li>Controllers </li>
-     - First nested list item
 <li>Models</li>
+<li>Routes</li>
 </ul>
 
