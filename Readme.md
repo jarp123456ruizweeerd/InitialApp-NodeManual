@@ -12,8 +12,8 @@ Para MiddelWares en este caso Cors
 <br>
 
 <h2>Estructura basica</h2>
-🗂️Public
-        -Public
-🗂️Routes
-        -Views
+🗂Public
+       
+🗂Routes
+        
 
