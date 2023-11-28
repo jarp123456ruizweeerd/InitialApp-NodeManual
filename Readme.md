@@ -13,6 +13,7 @@ Para MiddelWares en este caso Cors
 
 <h2>Estructura basica</h2>
 <ul>
+<li>app.js</li>
 <li>Public </li>
 <li>Controllers </li>
 <li>Models</li>
